@@ -1,0 +1,57 @@
+#title {
+    text-align: center;
+    font-family: BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+
+  }
+#main {
+    max-width: 1200px;
+    max-height: 100%;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: rgb(244, 241, 241);
+    border-radius: 20px;
+}
+#main > p {
+    text-align: center;
+}
+#body, body {
+    background-color: white;
+    margin: 0 auto;
+    font-family: BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+ul li {
+    padding-bottom: 25px;
+}
+#image {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    max-height: auto;
+    padding-bottom: 5px;
+    
+}
+#img-div {
+    margin: 0 auto;
+    display: block;
+    max-width: 800px;
+    padding: 10px;
+    background-color: white;
+    height: auto;
+}
+
+#tribute-info {
+    display: block;
+    max-width: 600px;
+    margin: 0 auto;
+}
+h4 {
+    text-align: center;
+    padding-bottom: 35px;
+}
+
+#h5 {
+    font-family: BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+#tribute-link {
+    text-align: center;
+}
